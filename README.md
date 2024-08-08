@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Java SpringBoot, PostgreSQL**
 
-- 📝 I regularly write articles on [https://t.me/dtmob](https://t.me/dtmob)
+- 📝 I regularly write articles on [https://t.me/dtmob](t.me/dtmob)
 
 - 📫 How to reach me **tagankhozhaev@gmail.com**
 
-- ⚡ Fun fact **I like pizza.**
+- ⚡ Fun fact **I like pizza 🍕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
