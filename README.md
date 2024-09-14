@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **NextJs, Prisma, PostgreSQL**
 
-- 📝 I regularly write articles on [https://t.me/dtmob](t.me/dtmob)
-
 - 📫 How to reach me **tagankhozhaev@gmail.com**
 
 - ⚡ Fun fact **I like pizza 🍕**
